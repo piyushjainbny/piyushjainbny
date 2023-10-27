@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyushjainbny
 - 👀 I’m interested in Web development especially backend development.
-- 🌱 I’m currently learning MERN  stack and also web 3.0
+- 🌱 I’m currently using MERN for web development and also learning about web 3.0
 - 📫 Reach out to me at piyushjainbnny@gmail.com
 
 <!---
